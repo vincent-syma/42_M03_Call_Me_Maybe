@@ -1,12 +1,7 @@
 # 42_M03: Call Me Maybe
 
-*This project has been created as part of the 42 curriculum by ssucha.*
-
----
-
 ## Table of Contents
 - [Description](#description)
-	- [Requirements](#requirements)
 - [Resources](#resources)
 - [Instructions](#instructions)
 	- [Makefile](#makefile)
@@ -227,3 +222,15 @@ But mostly I ran the test prompts manually and checked what was generated. Espec
 Thanks to this I added a possibility of empty parameters in a function definition.
 
 I also ruminated a lot about the prompts with no valid solution. I tried really hard to make the LLM say it is not able to solve the case but it kept hallucinating. I came to conclusion that it is not possible to restrain it without damaging the responses to the valid cases too.
+
+---
+
+## 👤 Author
+
+**Simona Sucha**
+*(also known as ssucha or vincent_syma)* <br>
+Python & C · Software Developer · 42 student
+
+🖥️ GitHub: https://github.com/vincent-syma/ <br>
+🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
+✉️ Email: vincent.f.syma@email.cz <br>
