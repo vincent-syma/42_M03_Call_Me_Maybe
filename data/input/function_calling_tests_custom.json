@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "Start the backup now."
+  },
+  {
+    "prompt": "Schedule a reminder called Team sync for 9 o'clock, repeat it, and place it in the kitchen."
+  },
+  {
+    "prompt": "Lock door A7 with code 194999999991 in silent mode."
+  },
+  {
+    "prompt": "Lock the west gate with code 911 and do not notify anyone."
+  }
+]

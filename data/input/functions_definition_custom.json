@@ -1,0 +1,49 @@
+[
+  {
+    "name": "fn_start_backup",
+    "description": "Start the backup process with no required parameters.",
+    "parameters": {},
+    "returns": {
+      "type": "boolean"
+    }
+  },
+  {
+    "name": "fn_schedule_reminder",
+    "description": "Schedule a reminder with a title, time, repetition, and room.",
+    "parameters": {
+      "title": {
+        "type": "string"
+      },
+      "hour": {
+        "type": "number"
+      },
+      "repeat": {
+        "type": "boolean"
+      },
+      "room": {
+        "type": "string"
+      }
+    },
+    "returns": {
+      "type": "string"
+    }
+  },
+  {
+    "name": "fn_lock_door",
+    "description": "Lock a door with a numeric code and an optional silent mode.",
+    "parameters": {
+      "door_id": {
+        "type": "string"
+      },
+      "code": {
+        "type": "number"
+      },
+      "silent": {
+        "type": "boolean"
+      }
+    },
+    "returns": {
+      "type": "boolean"
+    }
+  }
+]

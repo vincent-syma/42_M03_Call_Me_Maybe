@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "I think it's time to back everything up before I break something."
+  },
+  {
+    "prompt": "Could you remind me every day at 18:00 to water the plants? Put it in the living room."
+  },
+  {
+    "prompt": "Every morning at 7 I'd like a reminder called Take medicine. Put it in the bathroom."
+  },
+  {
+    "prompt": "Please secure garage door 14 using code 8080."
+  },
+  {
+    "prompt": "Silently lock storage room B12. The access code is 123456."
+  },
+  {
+    "prompt": "Don't make any sound when locking door X9. Use code 9876."
+  },
+  {
+    "prompt": "I keep forgetting meetings. Create a repeating reminder named Standup at 10 in the office."
+  },
+  {
+    "prompt": "Backup first, I'll deal with the rest later."
+  }
+]

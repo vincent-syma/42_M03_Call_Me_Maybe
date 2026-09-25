@@ -1,0 +1,32 @@
+[
+  {
+    "prompt": "What does backup actually do?"
+  },
+  {
+    "prompt": "Which rooms are available for reminders?"
+  },
+  {
+    "prompt": "I forgot the code to door A7."
+  },
+  {
+    "prompt": "Can reminders repeat weekly?"
+  },
+  {
+    "prompt": "How secure is silent mode?"
+  },
+  {
+    "prompt": "Lock the door."
+  },
+  {
+    "prompt": "Remind me tomorrow."
+  },
+  {
+    "prompt": "Set a reminder for dinner."
+  },
+  {
+    "prompt": "Use my usual code."
+  },
+  {
+    "prompt": "Start it."
+  }
+]

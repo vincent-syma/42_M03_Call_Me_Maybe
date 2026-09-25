@@ -1,0 +1,32 @@
+[tool.uv.sources]
+llm-sdk = { path = "llm_sdk" }
+
+[project]
+name = "call-me-maybe"
+version = "0.6.0"
+description = "Function calling tool using constrained decoding with a small LLM"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pydantic",
+	"rich",
+	"flake8",
+	"mypy",
+	"pytest",
+	"llm-sdk",
+]
+
+[tool.mypy]
+plugins = ["pydantic.mypy"]
+
+exclude = [
+	"llm_sdk/",
+	".venv/",
+	"Makefile",
+	"__pycache__",
+]
+
+[[tool.mypy.overrides]]
+module = "llm_sdk.*"
+ignore_errors = true
+follow_imports = "skip"

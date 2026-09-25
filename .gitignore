@@ -1,0 +1,8 @@
+__pycache__
+.mypy_cache
+*.pyc
+.venv
+lint.log
+data/output
+.python-version
+EOF
